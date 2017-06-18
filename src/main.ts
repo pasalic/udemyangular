@@ -1,3 +1,4 @@
+//this is the first code that is executed
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
